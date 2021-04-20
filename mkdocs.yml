@@ -1,0 +1,9 @@
+site_name: "testansible"
+site_project_description: "laalalalal"
+
+nav:
+  - Document Information: index.md
+
+plugins:
+  - techdocs-core
+  # - macros ### Move to local generator for testing 

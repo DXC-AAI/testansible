@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "testansible"
+  description: "laalalalal"
+  annotations:
+    github.com/project-slug: DXC-AAI/testansible
+    backstage.io/techdocs-ref: url:https://github.com/DXC-AAI/testansible
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "biancoda"
